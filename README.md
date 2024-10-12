@@ -1,4 +1,4 @@
-Addressbook Tutorial
+Addressbook 
 ====================
 
 This tutorial teaches you some of the basic concepts in [Vaadin Framework]. It is meant to be
